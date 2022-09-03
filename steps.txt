@@ -1,0 +1,17 @@
+npm init
+'enter' to everything
+
+npm i express nodemon socket.io cors
+
+add index.js to server folder
+
+add script to package.json for faster restarts
+"start": "nodemon index.js"
+
+
+for frontend
+npx create-react-app .
+
+npm install socket.io-client
+
+npm install react-scroll-to-bottom
